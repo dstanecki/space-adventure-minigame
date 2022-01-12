@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ This\ is\ level\ 1.\r\n\ \r\n\ @Daniel\ Stanecki\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Level1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Space.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ asteroidSpawn()
+comment4.params=
+comment4.target=void\ wormholeSpawn()
+numComments=5
